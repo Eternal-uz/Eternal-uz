@@ -13,6 +13,7 @@
 &nbsp;&nbsp;
 [![facebook](./img/instagram-light.svg)](https://www.facebook.com/azizbek.umaraliev/)
 [![instagrarm](./img/instagram-dark.svg)](https://www.instagram.com/azizlv/)
+[![resume](https://resume4eternal.netlify.app/)]
 
 ### Languages and Tools:
 
