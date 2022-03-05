@@ -9,10 +9,10 @@
 - ⚡ Fun fact: I love writing, and I write daily
 ### Connect with me:
 
-[![linkedin](./img/linkedin-light.svg)](https://www.linkedin.com/in/azizbekumaraliev/)
+[[linkedin](https://www.linkedin.com/in/azizbekumaraliev/)
 &nbsp;&nbsp;
-[![facebook](./img/instagram-light.svg)](https://www.facebook.com/azizbek.umaraliev/)
-[![instagrarm](./img/instagram-dark.svg)](https://www.instagram.com/azizlv/)
+[[facebook]](https://www.facebook.com/azizbek.umaraliev/)
+[[instagrarm]](https://www.instagram.com/azizlv/)
 [resume](https://resume4eternal.netlify.app/)]
 
 ### Languages and Tools:
